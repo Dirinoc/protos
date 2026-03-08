@@ -1,4 +1,4 @@
-module protos
+module github.com/Dirinoc/protos/protos
 
 go 1.25.3
 
